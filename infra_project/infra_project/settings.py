@@ -6,7 +6,7 @@ SECRET_KEY = 'k9gwcfq01xszx2(_4e#gc3u$rt=)y6ivx=$wt+5&-^ktk4dg4e'
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', '178.154.216.28']
 
 INSTALLED_APPS = [
     'infra_app.apps.InfraAppConfig',
